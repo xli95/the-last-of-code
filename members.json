@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Milan Dasgupta",
+		"netid": "mdasgup2",
+		"grade": "Senior",
+		"major": "Computer Engineering",
+		"age": "21",
+		"github_handle": "milanocookies93"
+	},
+	{
+		"name": "Calvin Shirley",
+		"netid": "cjshirl2",
+		"grade": "Senior",
+		"major": "Who knows",
+		"age": "21",
+		"github_handle": "CJS7070"
+	},
+	{
+		"name": "Eric Ahn",
+		"netid": "ericahn3",
+		"grade": "Sophomore",
+		"major": "Computer Science",
+		"age": "19",
+		"github_handle": "wchill"
+	},
+	{
+		"name": "Lily Sellers",
+		"netid": "lseller2",
+		"grade": "Junior",
+		"major": "Computer Science/Statistics and Psychology",
+		"age": "20",
+		"github_handle": "lilysellers"
+	},
+	{
+		"name": "Ace Nassri",
+		"netid": "nassri2",
+		"grade": "Junior",
+		"major": "Computer Science",
+		"age": "19",
+		"github_handle": "ace-n"
+	},
+	{
+		"name": "David Zmick",
+		"netid": "zmick2",
+		"grade": "Junior",
+		"major": "Computer Science",
+		"age": "20",
+		"github_handle": "dpzmick"
+	},
+	{
+		"name": "Michael Meyer",
+		"netid": "mnmeyer2",
+		"grade": "Freshman",
+		"major": "Computer Science",
+		"age": "18",
+		"github_handle": "voltomeyer"
+	},
+]
